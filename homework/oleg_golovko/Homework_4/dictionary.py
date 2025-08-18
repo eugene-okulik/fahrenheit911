@@ -7,7 +7,7 @@ my_dict = {
 
 print(my_dict['tuple'][-1])
 my_dict['list'].append('last3')
-my_dict['list'].pop(1) 
+my_dict['list'].pop(1)
 my_dict['dict']['i am a tuple'] = 6
 my_dict['dict'].pop('a')
 my_dict['set'].add('python')
